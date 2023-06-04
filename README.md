@@ -1,10 +1,12 @@
+# Random Number Generator
+
 ## Table of contents
 * [General info](#general-info)
 * [Structure](#structure)
 * [Functions](#functions)
 * [Usage](#usage)
 
-# General Info
+## General Info
 
 This program is an implementation of a pseudo-random number generator based on a linear algorithm and shift registers.
 
